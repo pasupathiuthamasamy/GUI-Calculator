@@ -1,4 +1,4 @@
-Here's the README file for your GUICalculator project on GitHub:
+#GUI Calculator
 
 **GUICalculator**
 
